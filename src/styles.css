@@ -1,0 +1,51 @@
+@import "tailwindcss";
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f3f3f3;
+  color: #333;
+}
+/* 
+.navbar {
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  padding: 20px;
+}
+
+.form input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.student {
+  background: white;
+  border-radius: 6px;
+  padding: 10px;
+  margin: 8px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.student.passed {
+  border-left: 6px solid #28a745;
+}
+
+.student.failed {
+  border-left: 6px solid #dc3545;
+} */
